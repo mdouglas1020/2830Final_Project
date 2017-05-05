@@ -103,13 +103,13 @@
   <!-- Wrapper for slides -->
                       <div class="carousel-inner">
                       <div class="item active">
-                        <img src="images\sharp.jpg" alt="Sharp" style="50%";>
+                        <img src="images\sharp.JPG" alt="Sharp" style="50%";>
                       </div>
                       <div class="item">
-                        <img src="images\colorado.jpg" alt="Col" style="50%";>
+                        <img src="images\colorado.JPG" alt="Col" style="50%";>
                       </div>
                       <div class="item">
-                        <img id="rotate" src="images\snow.jpg" alt="Snow" style="50%";>
+                        <img id="rotate" src="images\snow.JPG" alt="Snow" style="50%";>
                       </div>
                       <div class="item">
                         <img src="images\boys.jpg" alt="Boys" style="50%";>
