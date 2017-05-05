@@ -1,0 +1,56 @@
+
+#vids {
+  float: left;
+}
+
+
+
+#hello {
+  color: white;
+  font-family: 'Orbitron';
+  font-size: 25pt;
+  text-align: center;
+  text-shadow: 0 0 5px #00c6ff;
+}
+#todolist {
+
+    color: black bold;
+    font-family: 'Orbitron';
+
+}
+
+
+
+.clock {
+  text-shadow: 0 0 5px #00c6ff;
+  color: #fff;
+}
+
+
+#point {
+  position: relative;
+  -moz-animation: mymove 1s ease infinite;
+  -webkit-animation: mymove 1s ease infinite;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#ampm {
+
+  font-family: 'BebasNeueRegular', Arial, Helvetica, sans-serif;
+
+  text-align: center;
+
+}
+#last {
+        font-family: 'impact';
+          font-size: 25pt;
+          text-shadow: 0 0 5px yellow;
+
+
+}
+#myUL{
+        font-family: 'Luckiest Guy';
+        font-size: 20px;
+        color: #673AB7;
+}
