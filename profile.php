@@ -106,7 +106,7 @@
                         <img src="images\sharp.JPG" alt="Sharp" style="50%";>
                       </div>
                       <div class="item">
-                        <img src="images\colorado.JPG" alt="Col" style="50%";>
+                        <img src="images\Colorado.JPG" alt="Col" style="50%";>
                       </div>
                       <div class="item">
                         <img id="rotate" src="images\snow.JPG" alt="Snow" style="50%";>
