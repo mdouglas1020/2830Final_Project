@@ -43,7 +43,7 @@
              </div>
 
              <ul class="nav navbar-nav">
-               <li class="active"><a href="../profile.php">Home</a></li>
+
                <li style="width: 200px;">
                  <a></a>
                </li>
@@ -52,6 +52,7 @@
                </li>
              </ul>
              <ul class="nav navbar-nav navbar-right">
+                <li class="active"><a href="../profile.php">Home</a></li>
                <li><a href="statics/logout.php"><span class="glyphicon glyphicon-user"></span> Log Out</a></li>
              </ul>
            </div>
